@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farisbst, software developer in test
+- 👋 Hi, I’m @faris, software developer in test
 - 👀 I’m interested in expanding my automation testing skills
 - 🌱 I’m currently learning Cypress & Javascript
 - 💞️ I’m looking to collaborate on automation tests and scripts
